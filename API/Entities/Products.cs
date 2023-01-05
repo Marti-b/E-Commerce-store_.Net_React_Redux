@@ -1,4 +1,4 @@
-﻿namespace API.Entties;
+﻿namespace API.Entities;
 
 public class Products
 {
