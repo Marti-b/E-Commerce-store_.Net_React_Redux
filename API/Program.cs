@@ -16,6 +16,12 @@ builder.Services.AddDbContext<StoreContext>(opt =>
 
 var app = builder.Build();
 
+// Initialize Db
+using var scope = app.Services.CreateScope();
+var context = scope.ServiceProvider.GetRequiredService<StoreContext>();
+context.Database.Migrate();
+DbInitializer.Initialize(context);
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
