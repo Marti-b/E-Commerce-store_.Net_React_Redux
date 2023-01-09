@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\API\\API.csproj": {}
+    "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\API\\API.csproj": {
+    "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\API\\API.csproj",
+        "projectPath": "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\api\\API.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\API\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Documents\\Github\\E-Commerce-store_.Net_React_Redux\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
